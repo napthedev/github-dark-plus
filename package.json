@@ -1,21 +1,33 @@
 {
-    "name": "github-dark-plus",
-    "displayName": "Github Dark Plus",
-    "description": "Github Theme with dark default background",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.63.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Github Dark Plus",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Github Dark Plus-color-theme.json"
-            }
-        ]
-    }
+  "name": "github-dark-plus",
+  "displayName": "Github Dark Plus",
+  "description": "Github Theme with dark default background",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "github",
+    "pust",
+    "dark theme",
+    "github dark plus",
+    "NAPTheDevHcj",
+    "NAP The Dev Hcj"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/napthedev/github-dark-plus.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Github Dark Plus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Github Dark Plus-color-theme.json"
+      }
+    ]
+  }
 }
