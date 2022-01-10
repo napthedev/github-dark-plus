@@ -2,6 +2,8 @@
   "name": "github-dark-plus",
   "displayName": "Github Dark Plus",
   "description": "Github Theme with dark default background",
+  "icon": "logo.png",
+  "publisher": "NAPTheDevHcj",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.63.0"
